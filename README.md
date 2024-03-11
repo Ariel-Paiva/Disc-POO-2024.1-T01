@@ -5,10 +5,11 @@
 </div>
 
 ## Equipe "Os Nobres"
+- [Ariel Paiva](https://github.com/Ariel-Paiva)
 - [Gabriel Alencar](https://github.com/Bilinhas)
+- [Ismael Nascimento](https://github.com/ismaelnascimento)
 - [João Gabriel Aguiar](https://github.com/Jot4g3)
 - [Kauã Sousa](https://github.com/kkauaon)
-- [Ismael Nascimento](https://github.com/ismaelnascimento)
   
 ## Repositório
 Neste repositório, há as soluções dos exercícios resolvidos (25) e propostos (10) do Capítulo 3 do livro "Fundamentos da Programação de Computadores".
